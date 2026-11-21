@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/__pycache__": true,
+    "**/node_modules": true,
+    "**/venv": true,
+    "**/app": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/venv": true
+  },
+  "liveServer.settings.port": 5501
+}
